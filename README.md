@@ -1,0 +1,2 @@
+# FiboCarbon
+ini fibonaci
